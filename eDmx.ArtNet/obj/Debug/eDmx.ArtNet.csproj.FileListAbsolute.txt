@@ -1,0 +1,5 @@
+D:\Daten\Desktop\ArtNet.Net-master\eDmx.ArtNet\bin\Debug\eDmx.ArtNet.dll
+D:\Daten\Desktop\ArtNet.Net-master\eDmx.ArtNet\bin\Debug\eDmx.ArtNet.pdb
+D:\Daten\Desktop\ArtNet.Net-master\eDmx.ArtNet\obj\Debug\eDmx.ArtNet.csprojResolveAssemblyReference.cache
+D:\Daten\Desktop\ArtNet.Net-master\eDmx.ArtNet\obj\Debug\eDmx.ArtNet.dll
+D:\Daten\Desktop\ArtNet.Net-master\eDmx.ArtNet\obj\Debug\eDmx.ArtNet.pdb
